@@ -1,0 +1,1 @@
+[![hhamdy's 42 stats](https://badge.mediaplus.ma/darkblue/hhamdy)](https://github.com/oakoudad/badge42)
