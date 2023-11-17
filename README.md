@@ -32,6 +32,8 @@
     
 # 1337 school badge (42 network)
 [![hhamdy's 42 stats](https://badge.mediaplus.ma/darkblue/hhamdy)](https://github.com/oakoudad/badge42)
+<hr style="border  solid #000;">
+
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
