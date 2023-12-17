@@ -30,11 +30,14 @@
 </p>
 <hr style="border  solid #000;">
 
-<p align="center"> 
-# 1337 school badge (42 network)
-[![hhamdy's 42 stats](https://badge.mediaplus.ma/darkblue/hhamdy)](https://github.com/oakoudad/badge42)
-<hr style="border  solid #000;">
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/hhamdy" alt="hhamdy's 42 stats">
+  </a>
 </p>
+
+<hr>
+
 
 
 # 💻 Tech Stack
